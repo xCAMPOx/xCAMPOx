@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xCAMPOx
+- 👋 Hi, I’m @Tomas Camporeale
 - 👀 I’m interested in learn to program and work on it
-- 🌱 I’m currently learning phyton in VSC
+- 🌱 I’m currently learning phyton and Web Design using HTML and CSS in VSC
 - 💞️ I’m looking to collaborate on frontend programs
 - 📫 How to reach me tomas.camporeale95@gmail.com
 - 😄 Pronouns: CAMPO
